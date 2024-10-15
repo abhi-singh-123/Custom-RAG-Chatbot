@@ -8,5 +8,5 @@ pip install pypdf, sentence-transformers, faiss-cpu, langchain_huggingface, lang
 #### How to Run Ollama
 docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
 
-Pulling llama2 image
+#### Pulling llama2 image
 Ollama pull llama2
