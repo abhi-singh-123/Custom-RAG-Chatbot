@@ -1,6 +1,6 @@
 # Custom-RAG-Chatbot
 
-Install Libraries
+####Install Libraries
 pip install pypdf, sentence-transformers, faiss-cpu, langchain_huggingface, langchain_community
 
 How to Run Ollama
