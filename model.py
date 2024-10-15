@@ -21,7 +21,7 @@ Answer:
 
 def set_custom_prompt():
     """
-    Prompt template for QA retrieval for each vectorstore
+    Prompt template for QA retrieval for each vector store
     """
     prompt = PromptTemplate(template=custom_prompt_template,
                             input_variables=['context', 'question'])
